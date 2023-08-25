@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 533fa1fb7444c4c2dbbcdddf4e0a6998, type: 3}
+  m_Name: ConfigGunLevel
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    idGun: 1
+    level: 1
+    damage: 5
+    rof: 0.5
+    clipSize: 12
+    range: 5
+    accuracy: 80
+    bps: 0
+    reloadTime: 2.5
+    costUpgrade: 100
+  - id: 5
+    idGun: 1
+    level: 2
+    damage: 18
+    rof: 0.5
+    clipSize: 12
+    range: 5
+    accuracy: 80
+    bps: 0
+    reloadTime: 1.5
+    costUpgrade: 650
+  - id: 2
+    idGun: 2
+    level: 1
+    damage: 8
+    rof: 0.1
+    clipSize: 25
+    range: 5
+    accuracy: 80
+    bps: 0
+    reloadTime: 1.5
+    costUpgrade: 250
+  - id: 6
+    idGun: 2
+    level: 2
+    damage: 3
+    rof: 0.1
+    clipSize: 25
+    range: 5
+    accuracy: 80
+    bps: 0
+    reloadTime: 1.5
+    costUpgrade: 300
+  - id: 3
+    idGun: 3
+    level: 1
+    damage: 12
+    rof: 1
+    clipSize: 18
+    range: 5
+    accuracy: 10
+    bps: 5
+    reloadTime: 2
+    costUpgrade: 350
+  - id: 7
+    idGun: 3
+    level: 2
+    damage: 5
+    rof: 0.2
+    clipSize: 36
+    range: 5
+    accuracy: 40
+    bps: 0
+    reloadTime: 1.7
+    costUpgrade: 450
+  - id: 4
+    idGun: 4
+    level: 1
+    damage: 15
+    rof: 0.1
+    clipSize: 50
+    range: 5
+    accuracy: 50
+    bps: 0
+    reloadTime: 2
+    costUpgrade: 500
+  - id: 8
+    idGun: 4
+    level: 2
+    damage: 20
+    rof: 0.1
+    clipSize: 48
+    range: 5
+    accuracy: 50
+    bps: 0
+    reloadTime: 1.4
+    costUpgrade: 500

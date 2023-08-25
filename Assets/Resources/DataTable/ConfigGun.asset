@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e78cd47051204774a1772bc32658612, type: 3}
+  m_Name: ConfigGun
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    name: HandGun
+    icon: Gun_1
+    gunType: 1
+    cost: 100
+  - id: 2
+    name: AutoGun
+    icon: Gun_2
+    gunType: 2
+    cost: 300
+  - id: 3
+    name: ShotGun
+    icon: Gun_3
+    gunType: 3
+    cost: 500
+  - id: 4
+    name: HeavyGun
+    icon: Gun_4
+    gunType: 4
+    cost: 1000

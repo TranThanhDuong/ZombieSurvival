@@ -1,0 +1,5 @@
+id,name,prefab,zombieType
+1,slow,zombie_H_1,SLOW_ZOMBIE
+2,rapid,zombie_H_2,RAPID_ZOMBIE
+3,skull,3,SKULL_ZOMBIE
+4,mutant,4,MUTANT_ZOMBIE

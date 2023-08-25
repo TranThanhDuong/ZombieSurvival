@@ -1,0 +1,2 @@
+id,scene_name,scene_Config,mode,id_Item,time_Mission,enemies,totalCurrentEnemy,totalEnemy,reward
+1,InGame,SceneConfig_InGame,KillAll,0,0,1-1;2-1,4,10,empty
