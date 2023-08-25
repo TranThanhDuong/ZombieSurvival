@@ -1,8 +1,10 @@
 .svn
 .vs
+/Assets/OtherLearn_Old
 Library
 Logs
 obj
+Temp
 UserSettings
 .vsconfig
 Assembly-CSharp.csproj
